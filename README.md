@@ -35,8 +35,17 @@ Normally you just need to uncheck `Use GameSparks` & `Use EasyAntiCheat (EAC)`, 
 ![image](https://user-images.githubusercontent.com/9550947/203144089-cc6a9519-7d79-4b8e-9d41-a84a4e813f01.png)
 
 
-### Playtime!!!
-**Final Notice:** If you have any issues with errors before joining the world, make sure the following is true:
+### Step 6
+Time to connect to the server, 
+- Click join game
+- Click start search (don't fill anything in)
+- Bottom shows a button "Connect to IP", click it
+- Fill in the server details (can be found in the discord server under #server-details)
+- The server is called 7 Waffles
+- Password is also in the discord!
+
+### Issues & possible fixes
+If you have any issues with errors before joining the world, make sure the following is true:
 - Mods are extracted in the root folder of your game, NOT in the data folder.
 - Prefabs are extracted in the root/data folder of your game, NOT in the root folder.
 
